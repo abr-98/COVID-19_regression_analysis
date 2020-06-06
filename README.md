@@ -12,4 +12,4 @@ It has Cured, Death and Confirmed data of all states, and analysis of data all o
 
 Total 128 rows and 120 columns
 
-Covid-19.csv is the original provided dataset
+Covid-19_india.csv is the original provided dataset
