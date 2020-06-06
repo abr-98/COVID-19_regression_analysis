@@ -13,3 +13,9 @@ It has Cured, Death and Confirmed data of all states, and analysis of data all o
 Total 128 rows and 120 columns
 
 Covid-19_india.csv is the original provided dataset
+
+predict_Confirmed is the use of the model to produce only confirmed_case data
+
+Predict_confirmed_death_cured uses the model to predict confirmed_case,death_case, recovered_case
+
+It estimates that the average percentage of change of the confirmed and recovered cases remains constant for the states 
