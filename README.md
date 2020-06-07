@@ -19,3 +19,8 @@ predict_Confirmed is the use of the model to produce only confirmed_case data
 Predict_confirmed_death_cured uses the model to predict confirmed_case,death_case, recovered_case
 
 It estimates that the average percentage of change of the confirmed and recovered cases remains constant for the states 
+
+![alt text](https://raw.githubusercontent.com/abr-98/COVID-19_regression_analysis/master/predicted_10.png)
+
+
+![alt text](https://raw.githubusercontent.com/abr-98/COVID-19_regression_analysis/master/given_val.png)
