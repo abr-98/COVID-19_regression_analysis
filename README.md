@@ -22,5 +22,13 @@ It estimates that the average percentage of change of the confirmed and recovere
 
 ![alt text](https://raw.githubusercontent.com/abr-98/COVID-19_regression_analysis/master/predicted_10.png)
 
+Plot from last 20 days + predicted for 10 days
+
+The indices on x axis indicates days (15-05-2020 to 15-06-2020)
 
 ![alt text](https://raw.githubusercontent.com/abr-98/COVID-19_regression_analysis/master/given_val.png)
+
+Plot from the given last 20 days
+
+The indices on x axis indicates days (15-05-2020 to 05-06-2020)
+
